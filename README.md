@@ -2,3 +2,4 @@
 Latihan pertemuan 1 platform
 HelloWorld
 helloworld
+HELLOWORLD
